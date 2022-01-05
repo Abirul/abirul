@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **OpenGL**
 
-- 👯 I’m looking to collaborate on [None Of Ever](https://github.com/None-Of-Ever)
+- 👯 I’m looking to collaborate on [Devoart](https://github.com/Devoart)
 
 - 💬 Ask me about **android,QT,linux**
 
