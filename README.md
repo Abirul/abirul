@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Mohammad Abirul Alam Abir</h1>
 
-- 💬 Ask me about **android,QT,linux**
-
 - 📫 How to reach me **hi.iamabirul@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
